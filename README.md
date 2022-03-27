@@ -4,3 +4,5 @@
 ### Inclusind JS file on HTML5
 ### Variables
 ### ABC Challenge
+### If/Else
+### Casting
