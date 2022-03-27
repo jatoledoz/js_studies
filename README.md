@@ -9,3 +9,4 @@
 - Logical Operators
 - Ternary Operator
 - Range of Age Challenge
+- Switch
