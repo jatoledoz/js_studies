@@ -7,3 +7,4 @@
 - If/Else
 - Casting
 - Logical Operators
+- Ternary Operator
