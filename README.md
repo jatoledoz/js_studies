@@ -10,3 +10,4 @@
 - Ternary Operator
 - Range of Age Challenge
 - Switch
+- Arithmetic Operators
