@@ -6,3 +6,4 @@
 - ABC Challenge
 - If/Else
 - Casting
+- Logical Operators
